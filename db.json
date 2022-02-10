@@ -4,7 +4,7 @@
     { "id": 2, "title": "Post 22" },
     { "id": 3, "title": "Post 32" }
   ],
-  "comment1": [
+  "comm1": [
     { "id": 1, "body": "some comment", "postId2": 1 },
     { "id": 2, "body": "some comment", "postId2": 1 }
   ],
