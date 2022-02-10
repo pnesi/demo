@@ -4,11 +4,11 @@
     { "id": 2, "title": "Post 22" },
     { "id": 3, "title": "Post 32" }
   ],
-  "comments": [
+  "comment1": [
     { "id": 1, "body": "some comment", "postId2": 1 },
     { "id": 2, "body": "some comment", "postId2": 1 }
   ],
-  "teams": [
+  "comments": [
     { "id": 1, "dex": "juventus", "city": "torino" },
     { "id": 2, "dex": "fiorentina", "city": "firenze" }
   ],
